@@ -5,13 +5,13 @@ URL: https://github.com/mathiasjepsen/PythonDatasetAssignment/raw/master/ks-proj
 
     - What main-category of project has the highest success rate?
     - For the main-category of project with highest success rate (question above), 
-      what is the category with highest number of project proposals?
-    - what is the median pledged amount (usd_pledged_real) of successfully funded projects?
+        what is the category with highest number of project proposals?
+    - What is the median pledged amount (usd_pledged_real) of successfully funded projects?
     - What is the number of successfully funded projects with more than 5.000$ pledged 
-      (usd_pledged_real) per category?
+        (usd_pledged_real) per category?
     - For the main-category with most successfully funded projects (quantity not rate of success), 
-      what is the range of goal-amount (usd_goal_real) a 10k usd range, ex range 0-10k$ , 5-15k$... 
-      100k$-110k$, that contains the most successfully funded projects (in quantity not rate of success)?
+        what is the range of goal-amount (usd_goal_real) a 10k usd range, ex range 0-10k$ , 5-15k$, 
+        100k$-110k$, that contains the most successfully funded projects (in quantity not rate of success)?
 
 
 # Plan B: 
