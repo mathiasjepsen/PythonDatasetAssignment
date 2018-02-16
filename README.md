@@ -1,4 +1,5 @@
-# Plan A: dataset about projects posted on kickstarter with various information such as main_category, (sub)category, pledged amount and status
+# Plan A: 
+A dataset about projects posted on kickstarter with various information such as main_category, (sub)category, pledged amount and status
 
 URL: https://github.com/mathiasjepsen/PythonDatasetAssignment/raw/master/ks-projects-201801.csv
 
@@ -12,7 +13,8 @@ URL: https://github.com/mathiasjepsen/PythonDatasetAssignment/raw/master/ks-proj
       funded projects (in quantity not rate of success)?
 
 
-# Plan B: TSA Claims - lost property, damaged property, missed flights etc. and their respective dispositions (were they      successful or not)
+# Plan B: 
+TSA Claims - lost property, damaged property, missed flights etc. and their respective dispositions (were they      successful or not)
         
 URL: https://github.com/mathiasjepsen/PythonDatasetAssignment/raw/master/claims-2010-2013_0.xls
   
