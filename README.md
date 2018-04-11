@@ -1,7 +1,8 @@
 # Plan A: 
 A dataset about projects posted on kickstarter with various information such as main_category, (sub)category, pledged amount and status
 
-URL: https://github.com/mathiasjepsen/PythonDatasetAssignment/raw/master/ks-projects-201801.csv
+Download URL: https://github.com/mathiasjepsen/PythonDatasetAssignment/raw/master/ks-projects-201801.csv
+Kaggle page: https://www.kaggle.com/kemical/kickstarter-projects/data
 
     - What main-category of project has the highest success rate?
     - For the main-category of project with highest success rate (question above), 
