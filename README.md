@@ -6,6 +6,7 @@ URL: https://github.com/mathiasjepsen/PythonDatasetAssignment/raw/master/ks-proj
     - What main-category of project has the highest success rate?
     - For the main-category of project with highest success rate (question above), 
         what is the category with the highest number of project proposals?
+        (OPTIONAL: In case you perceive any clusters in the results, try to use the MeanShift algorithm on them)
     - What is the median pledged amount (usd_pledged_real) of successfully funded projects?
     - What is the number of successfully funded projects with more than 5.000$ pledged 
         (usd_pledged_real) per category?
